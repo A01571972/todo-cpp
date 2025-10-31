@@ -1,0 +1,6 @@
+Task Title;Description;Done
+Buy groceries;Purchase milk, eggs, and bread from the supermarket;No
+Clean the house;Vacuum and dust all rooms in the house;Yes
+Finish project report;Complete the final draft of the project report for submission;No
+Call the bank;Inquire about the new credit card offers;Yes
+Schedule doctor appointment;Set up a routine check-up with the family doctor;No
