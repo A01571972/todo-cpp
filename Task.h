@@ -6,7 +6,7 @@
 class Task {
     public:
     // constructor
-    Task(std::string title, bool done, std::string description);
+    Task(std::string title, std::string description, bool done);
 
     // getters
     std::string getTitle();
@@ -28,7 +28,7 @@ class Task {
 };
 
 // constructor
-Task::Task(std::string title, bool done, std::string description) {
+Task::Task(std::string title, std::string description, bool done) {
     this->title = title;
     this->done = done;
     this->description = description;
